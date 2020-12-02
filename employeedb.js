@@ -1,6 +1,5 @@
 var mysql = require("mysql");
 var inquirer = require("inquirer");
-const cTable = require("console.table");
 
 
 var connection = mysql.createConnection({
@@ -13,8 +12,8 @@ var connection = mysql.createConnection({
     user: "root",
 
     // Your password
-    password: "daniel",
-    database: "employeedb"
+    password: "daniel1",
+    database: "employee_db"
 });
 
 connection.connect(function (err, res) {

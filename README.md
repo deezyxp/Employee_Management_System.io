@@ -23,8 +23,9 @@ Install the following NPM packages: NPM install, mySQL, Inquirer, Console.table,
 # Usage: 
 
 
-# Screenshot of application in use:
+# Video of application in use:
 
+https://www.youtube.com/watch?v=1PG5-pAlB00&ab_channel=DanielZhang
 
 
 # Contributions: 

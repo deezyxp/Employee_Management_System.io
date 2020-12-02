@@ -1,0 +1,23 @@
+{
+  "name": "employee_management_system.io",
+  "version": "1.0.0",
+  "description": "A content management system to store employee information.",
+  "main": "employeedb.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deezyxp/Employee_Management_System.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deezyxp/Employee_Management_System.io/issues"
+  },
+  "homepage": "https://github.com/deezyxp/Employee_Management_System.io#readme"
+}
